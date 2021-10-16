@@ -1,0 +1,10 @@
+/* Font */
+@font-face {
+  font-family: "bebas_neuebold";
+  src: url("../fonts/bebasneue-bold-webfont.woff") format("woff");
+}
+
+/* Style Utama */
+body {
+  font: 18px/36px "bebas_neuebold", "arial narrow", arial, sans-serif;
+}
